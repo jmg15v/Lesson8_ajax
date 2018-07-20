@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(July 20, 1018)
 
 ### Student Name:  
-(First and Last Name)
+(Jordan Geon)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This project included adding information that will come up when a movie titl is searched)
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (How to check in the JavaScript console if the it was correctly searching for a movie title)
+2. (How to add additional title for the site for what it will search for.)
+3. (How to make these added titles actually search and produce information about a specific movie)
